@@ -15,7 +15,7 @@
 
 ## APKs:
 ```
-Version: 8.60.1 build 4 50376
+Version: v8.62.0 build 7 50386
 Package: com.netflix.mediaclient
 Architecture: universal
 Min. Android: 7.0
