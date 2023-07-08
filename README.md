@@ -15,11 +15,11 @@
 
 ## APKs:
 ```
-Version: v8.66.0 build 10 50402
+Version: v8.76.0 build 7 50451
 Package: com.netflix.mediaclient
 Architecture: universal
 Min. Android: 7.0
-DPI: 480-640
+DPI: 320-640
 ```
 <br />
 <br />
