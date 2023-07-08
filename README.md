@@ -30,7 +30,7 @@ This is useful for installing Apps that are distributed as App Bundles since And
 
 ## How-To:
 1. Download ```SAI (Split APKs Installer)``` - [GitHub](https://github.com/Aefyr/SAI) & install
-2. Download ```Netlix_vXXX-SAI.zip``` from Releases Tab
+2. Download ```Netlix_vXXX.zip``` from Releases Tab
 3. Open ```SAI```
-4. Tap on ```Install APKs``` Button and select ```Netflix_vXXX-SAI.zip``` or choose extracted ```base, split_config.arm64_v8a, split_config.xxxhdpi, etc.``` APKs
+4. Tap on ```Install APKs``` Button and select ```Netflix_vXXX.zip``` or choose extracted ```base, split_config.arm64_v8a, split_config.xxxhdpi, etc.``` APKs
 5. Click on ```Select``` Button to start installation Process
